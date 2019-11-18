@@ -1,0 +1,76 @@
+,category_code,founded_year,name,number_of_employees,lat,lng,oficina_principal.city,oficina_principal.country code,total_offices
+0,web,2013,Fixya,30,37.566879,-122.323895,San Mateo,USA,1
+1,network_hosting,2008,Webnode,30,49.2259017,16.5692822,Brno,CZE,1
+2,web,2008,First30Days,17,38.257035,-85.717393,Louisville,USA,1
+3,analytics,2010,YouNoodle,18,37.7766587,-122.395875,San Francisco,USA,1
+4,web,2008,CityIN,11,35.86166,104.195397,,CHN,1
+5,web,2008,BuyerRaja,20,13.033353,77.578768,Bangalore,IND,1
+6,web,2008,Mad Mimi,35,40.66509,-73.980306,Brooklyn,USA,1
+7,web,2008,Park Hill,10,12.86936,74.84256,Mangalore,IND,1
+8,web,2008,Mouth Watering Media,10,29.735082,-95.390758,Houston,USA,1
+9,web,2008,Spoonflower,35,36.0966,-79.266246,Durham,USA,1
+11,web,2009,BrandYourself,22,42.275263,-71.24762,New York,USA,1
+12,web,2008,PerfectBusiness,10,33.995974,-118.456709,Venice,USA,1
+13,web,2008,Geekdom,50,-33.860404,151.208584,Sydney,AUS,1
+14,web,2008,CreActivity Focus,10,-12.0805011,-77.0551909,Lima,PER,1
+16,web,2008,Tripy Travel,10,-41.296454,174.774682,Wellington,NZL,1
+17,web,2008,Jibes,15,52.091381,5.148893,Utrecht,NLD,1
+18,web,2008,MyFrontSteps,29,52.143886,-106.6634565,Saskatoon,CAN,1
+19,web,2008,TheWebService,12,52.232349,-2.26681,Worcester,GBR,1
+20,analytics,2008,iCharts,16,37.384239,-122.012475,Sunnyvale,USA,1
+22,web,2008,Call Me Later,25,25.916982,-80.29413,Miami,USA,1
+24,web,2008,TheWebService,12,52.232349,-2.26681,Worcester,GBR,1
+25,analytics,2008,iCharts,16,37.384239,-122.012475,Sunnyvale,USA,1
+27,web,2008,Call Me Later,25,25.916982,-80.29413,Miami,USA,1
+29,web,2008,IT Stocklist,12,50.710267,7.066468,Bonn,DEU,1
+30,web,2009,Magoosh,13,37.871087,-122.270913,Berkeley,USA,1
+32,web,2008,PeoplePad,10,30.268735,-97.745209,Austin,USA,1
+33,web,2008,Calameo,10,48.871174,2.308019,Paris,FRA,1
+34,web,2008,TVLesson,18,33.9266484,-117.8771193,Brea,USA,1
+35,web,2008,VIrtualVu,10,44.371496,-79.668813,"Barrie,",CAN,1
+36,web,2009,Formspring,19,39.9052263,-86.0547016,San Francisco,USA,1
+37,analytics,2008,Dukky,15,29.973994,-90.082202,Mandeville,USA,1
+39,web,2008,Cookstr,10,40.707268,-74.001724,New York,USA,1
+40,web,2010,Yipit,23,40.744618,-73.987764,New York,USA,1
+41,web,2008,Virgance,15,37.781262,-122.394958,San Francisco,USA,1
+42,web,2008,DreamBank,10,49.263588,-123.138565,Vancouver,CAN,1
+43,web,2008,Allure Media,15,-33.8719926,151.1936039,Darlinghurst,AUS,1
+45,web,2013,Clowdy,11,53.4837067,-2.2439492,Manchester,GBR,1
+46,network_hosting,2008,MyVishwa,25,40.247314,-75.2023361,North Wales,USA,1
+47,web,2008,People Capital,10,40.756054,-73.986951,New York,USA,1
+48,web,2008,JobsTAXI,12,1.279684,103.842646,Singapore,SGP,1
+49,network_hosting,2008,TRIBAX,12,52.5273098,13.3922487,Berlin,DEU,1
+51,web,2008,popdat,10,40.727533,-74.230704,IRVINGTON,USA,1
+52,web,2008,StockTwits,12,32.7161896,-117.168697,San Diego,USA,1
+53,web,2008,Tsavo Agency,15,34.0028373,-118.4844228,Santa Monica,USA,1
+54,web,2008,midVentures,10,41.885408,-87.625677,Chicago,USA,1
+57,web,2008,TagMyEvent,10,29.745861,-95.457796,Houston,USA,1
+58,web,2008,JobsByRef,10,13.0292742,80.2481532,Chennai,IND,1
+59,web,2008,ExpertHub,35,37.6621228,-121.9009329,Pleasanton,USA,1
+60,web,2008,studdex,10,51.4523335,7.3554365,Berlin,DEU,1
+61,web,2008,Coupon Tweet,12,41.879535,-87.624333,Chicago,USA,1
+62,web,2008,howsimple,12,33.7836802,-116.7732162,IDYLLWILD,USA,1
+63,network_hosting,2009,Gridstore,31,37.4189073,-122.0884286,Mountain View,USA,1
+65,web,2008,Ranker,12,34.1012181,-118.325739,Los Angeles,USA,1
+66,web,2008,Neovada,16,59.9137459,10.7963809,Oslo,NOR,1
+67,web,2008,ShopaService,15,40.827627,-74.10081,NJ,USA,1
+68,analytics,2008,tracx,40,32.0554,34.7595,New York,USA,1
+69,analytics,2009,Chartbeat,50,40.73343,-73.990967,New York,USA,1
+70,web,2009,psychiatryRounds,10,37.400465,-122.073003,Mountain View,USA,1
+71,web,2008,Lunch,12,33.903022,-118.3864712,,USA,1
+72,web,2008,myGreek,10,37.772287,-122.42044,San Francisco,USA,1
+73,web,2008,Milo,20,37.444531,-122.163352,Palo Alto,USA,1
+74,web,2008,Belighted,13,50.6713314,4.6102492,Louvain-la-Neuve,BEL,1
+75,web,2008,kinkon,10,49.439304,7.771808,Kaiserslautern,DEU,1
+76,web,2008,Worky,16,53.344104,-6.2674937,Dublin,IRL,1
+77,web,2008,Sponty,10,42.3672873,-71.0814466,Cambridge,USA,1
+78,web,2008,Exploroo Pty Ltd,11,-28.048422,153.4375,"Gold Coast, QLD",AUS,1
+79,web,2008,Zookel,10,51.5203268,-0.0994596,London,GBR,1
+80,web,2009,Bar Exchange,10,51.5395914,-0.1525048,London,GBR,1
+81,web,2009,Ykone,10,48.8566667,2.3509871,Paris,FRA,1
+82,web,2009,Enternships,15,51.5215279,-0.1038219,London,GBR,1
+83,web,2008,DSwiss,10,47.376362,8.5142125,ZÃ¼rich,CHE,1
+84,web,2009,ChallengePost,17,40.7408042,-74.00717,New York,USA,1
+86,analytics,2008,Homesnap,18,38.960381,-77.084811,Washington,USA,1
+87,web,2008,Culture Jam,15,34.0137151,-118.4660597,Los Angeles,USA,1
+88,web,2008,Conversition,10,40.756054,-73.986951,New York City,USA,1
